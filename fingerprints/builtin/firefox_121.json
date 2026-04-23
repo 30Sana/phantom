@@ -1,0 +1,115 @@
+{
+    "name": "Firefox 121",
+    "id": "firefox_121",
+    "description": "Mozilla Firefox 121 \u2014 no GREASE, distinct cipher ordering",
+    "record_version": 771,
+    "cipher_suites": [
+        4865,
+        4867,
+        4866,
+        49195,
+        49199,
+        52393,
+        52392,
+        49196,
+        49200,
+        49162,
+        49161,
+        49171,
+        49172,
+        51,
+        57,
+        47,
+        53
+    ],
+    "compression_methods": [
+        0
+    ],
+    "extensions": [
+        {
+            "id": 0
+        },
+        {
+            "id": 23
+        },
+        {
+            "id": 65281
+        },
+        {
+            "id": 10
+        },
+        {
+            "id": 11
+        },
+        {
+            "id": 35
+        },
+        {
+            "id": 16
+        },
+        {
+            "id": 5
+        },
+        {
+            "id": 13
+        },
+        {
+            "id": 18
+        },
+        {
+            "id": 51
+        },
+        {
+            "id": 45
+        },
+        {
+            "id": 43
+        },
+        {
+            "id": 28
+        },
+        {
+            "id": 21
+        }
+    ],
+    "supported_groups": [
+        29,
+        23,
+        24,
+        25
+    ],
+    "ec_point_formats": [
+        0
+    ],
+    "signature_algorithms": [
+        1027,
+        1025,
+        1283,
+        1539,
+        2052,
+        2053,
+        2054,
+        1281,
+        771,
+        769,
+        515,
+        513
+    ],
+    "alpn": [
+        "h2",
+        "http/1.1"
+    ],
+    "supported_versions": [
+        772,
+        771
+    ],
+    "psk_key_exchange_modes": [
+        1
+    ],
+    "compress_cert_algorithms": [],
+    "key_share_groups": [
+        29,
+        23
+    ],
+    "alps_protocols": []
+}

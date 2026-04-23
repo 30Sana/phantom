@@ -1,0 +1,18 @@
+# Built binary (root-level only)
+/phantom
+/phantom.exe
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# Claude Code local settings
+.claude/
+
+# Generated certs (real ones live in ~/.phantom/)
+*.crt
+*.key
+*.pem

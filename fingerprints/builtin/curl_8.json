@@ -1,0 +1,115 @@
+{
+    "name": "curl 8",
+    "id": "curl_8",
+    "description": "curl 8.x linked against OpenSSL \u2014 simple fingerprint, easy to detect",
+    "record_version": 771,
+    "cipher_suites": [
+        4866,
+        4867,
+        4865,
+        49196,
+        49200,
+        159,
+        52393,
+        52392,
+        52394,
+        49195,
+        49199,
+        158,
+        49188,
+        49192,
+        107,
+        49187,
+        49191,
+        103,
+        49162,
+        49172,
+        57,
+        49161,
+        49171,
+        51,
+        157,
+        156,
+        61,
+        60,
+        53,
+        47,
+        255
+    ],
+    "compression_methods": [
+        0
+    ],
+    "extensions": [
+        {
+            "id": 0
+        },
+        {
+            "id": 23
+        },
+        {
+            "id": 13
+        },
+        {
+            "id": 5
+        },
+        {
+            "id": 18
+        },
+        {
+            "id": 16
+        },
+        {
+            "id": 51
+        },
+        {
+            "id": 45
+        },
+        {
+            "id": 43
+        },
+        {
+            "id": 10
+        },
+        {
+            "id": 21
+        }
+    ],
+    "supported_groups": [
+        29,
+        23,
+        24
+    ],
+    "ec_point_formats": [
+        0
+    ],
+    "signature_algorithms": [
+        1027,
+        1025,
+        1283,
+        1539,
+        2052,
+        1281,
+        2053,
+        1537,
+        2054,
+        771,
+        769,
+        515,
+        513
+    ],
+    "alpn": [
+        "http/1.1"
+    ],
+    "supported_versions": [
+        772,
+        771
+    ],
+    "psk_key_exchange_modes": [
+        1
+    ],
+    "compress_cert_algorithms": [],
+    "key_share_groups": [
+        29
+    ],
+    "alps_protocols": []
+}

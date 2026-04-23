@@ -1,0 +1,43 @@
+{
+    "name": "Chrome 120",
+    "id": "chrome_120",
+    "description": "Google Chrome 120 on macOS — matches HelloChrome_120 from utls",
+    "record_version": 771,
+    "cipher_suites": [
+        2570,
+        4865, 4866, 4867,
+        49195, 49199, 49196, 49200,
+        52393, 52392,
+        49171, 49172,
+        156, 157, 47, 53
+    ],
+    "compression_methods": [0],
+    "extensions": [
+        {"id": 2570},
+        {"id": 0},
+        {"id": 23},
+        {"id": 65281},
+        {"id": 10},
+        {"id": 11},
+        {"id": 35},
+        {"id": 16},
+        {"id": 5},
+        {"id": 13},
+        {"id": 18},
+        {"id": 51},
+        {"id": 45},
+        {"id": 43},
+        {"id": 27},
+        {"id": 17513},
+        {"id": 2570}
+    ],
+    "supported_groups": [2570, 29, 23, 24],
+    "ec_point_formats": [0],
+    "signature_algorithms": [1027, 2052, 1025, 1283, 2053, 1281, 2054, 1537],
+    "alpn": ["h2", "http/1.1"],
+    "alps_protocols": ["h2"],
+    "supported_versions": [2570, 772, 771],
+    "psk_key_exchange_modes": [1],
+    "compress_cert_algorithms": [2],
+    "key_share_groups": [2570, 29]
+}
